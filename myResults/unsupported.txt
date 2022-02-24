@@ -1,0 +1,108 @@
+pdf\1-s2.0-S0096300301001977-main.pdf
+pdf\1.462100.pdf
+pdf\1.4998714.pdf
+pdf\1004.2342.pdf
+pdf\1194404.pdf
+pdf\1307.2582.pdf
+pdf\1401.4221.pdf
+pdf\155022r.pdf
+pdf\1603.09021.pdf
+pdf\1609.07590.pdf
+pdf\1702.00312.pdf
+pdf\1703.07206.pdf
+pdf\1707.02132.pdf
+pdf\1710.07445.pdf
+pdf\1801.07337.pdf
+pdf\1802.00322.pdf
+pdf\1805.04933.pdf
+pdf\1907.09032.pdf
+pdf\1908.10336.pdf
+pdf\1909.09935.pdf
+pdf\2001.07305.pdf
+pdf\2004.11961.pdf
+pdf\2005.00256.pdf
+pdf\2005.07916.pdf
+pdf\2005.08631.pdf
+pdf\2011.06551.pdf
+pdf\2011.11981.pdf
+pdf\2012.11056.pdf
+pdf\2017_Book_QuantumSystemsInPhysicsChemist.pdf
+pdf\2018_Book_ConceptsMethodsAndApplications.pdf
+pdf\2020_Book_AdvancesInQuantumSystemsInChem.pdf
+pdf\2020_Book_StronglyCoupledFieldTheoriesFo.pdf
+pdf\2021_Barratt_Fergus_1204331_ethesis.pdf
+pdf\2021_Book_ReachabilityProblems.pdf
+pdf\2103.11825.pdf
+pdf\2106.00008.pdf
+pdf\2106.11927.pdf
+pdf\2107.04320.pdf
+pdf\2107.08273.pdf
+pdf\2110.13418.pdf
+pdf\2111.14970.pdf
+pdf\2112.06365.pdf
+pdf\2201.09743.pdf
+pdf\5.0040313.pdf
+pdf\5.0043322.pdf
+pdf\5.0056974.pdf
+pdf\5.0066059.pdf
+pdf\906b2ac1ed64b7809fd57442fa7aeb6e70eb.pdf
+pdf\A gradient descent approach to optimal coherent quantum LQG controller design.pdf
+pdf\A Linear Least Squares Method to Identify the Damping Rate Function for a Non-Markovian Single Qubit System.pdf
+pdf\A Novel Sixth-Order Algorithm for the Direct Zakharov-Shabat Problem.pdf
+pdf\A Quantum Karhunen-Loeve Expansion and Quadratic-Exponential Functionals for Linear Quantum Stochastic Systems-.pdf
+pdf\Adv Funct Materials - 2020 - Sun - The Future of Memristors  Materials Engineering and Neural Networks.pdf
+pdf\Adv Funct Materials - 2021 - Khatib - Deep Learning the Electromagnetic Properties of Metamaterials A Comprehensive Review.pdf
+pdf\Advanced Optical Materials - 2021 - Deng - Physics and Applications of High‐  Micro‐ and Nanolasers.pdf
+pdf\Analytical-solutions-for-N-interacting-electron-system-confined-in-_2020_Cry.pdf
+pdf\Berry_2014_J._Phys._A__Math._Theor._47_105301.pdf
+pdf\Cao_2013_New_J._Phys._15_013021.pdf
+pdf\Cerezo_2021_Quantum_Sci._Technol._6_035006.pdf
+pdf\Chen+et+al_2021_Mach._Learn.__Sci._Technol._10.1088_2632-2153_ac4559.pdf
+pdf\Coherent quantum observers for n-level quantum systems.pdf
+pdf\Concurrency and Computation - 2018 - Liu - Intelligent medical IoT system based on WSN with computer vision platforms.pdf
+pdf\Covariance dynamics and entanglement in translation invariant linear quantum stochastic networks.pdf
+pdf\cz_master_thesis.pdf
+pdf\Exponential-stabilization-of-two-level-quantum-systems-based_2021_Results-in.pdf
+pdf\Fan2021_Article_ExponentialSpeedupOfQuantumNew.pdf
+pdf\He_2021_Phys._Scr._96_035101.pdf
+pdf\He_2021_Quantum_Sci._Technol._6_045021.pdf
+pdf\Huang_2020_Quantum_Sci._Technol._5_045008.pdf
+pdf\Hybrid_quantum_linear_solver_using_Noisy_Intermedi.pdf
+pdf\IET Quantum Communication - 2020 - Hassija - Forthcoming applications of quantum computing  peeking into the future.pdf
+pdf\Index_2017_The-Physics-of-Computing.pdf
+pdf\Index_2021_Introduction-to-Quantum-Mechanics.pdf
+pdf\JACM_Volume 7_Issue 3_Pages 1836-1846.pdf
+pdf\Linearly Solvable Stochastic Optimal Control for Infinite-Dimensional Systems.pdf
+pdf\Li_2021_Quantum_Sci._Technol._6_014001.pdf
+pdf\Ma_2005_J._Stat._Mech._2005_P10007.pdf
+pdf\Medical Imaging - 2013 - Wolbarst - Index.pdf
+pdf\Medical Physics - 2012 -  - 54th ANNUAL MEETING AND EXHIBITION.pdf
+pdf\Medical Physics - 2012 -  - SUBJECT INDEX TO VOLUME 39.pdf
+pdf\Medical Physics - 2013 -  - 2013 AAPM Annual Meeting Program.pdf
+pdf\Medical Physics - 2013 -  - 55th ANNUAL MEETING AND EXHIBITION.pdf
+pdf\Medical Physics - 2013 -  - SUBJECT INDEX TO VOLUME 40.pdf
+pdf\Medical Physics - 2014 -  - 56th ANNUAL MEETING AND EXHIBITION.pdf
+pdf\Medical Physics - 2014 - Pizzutiello - SU‐A‐BRE‐01  AAPM Medical Physics Student Meeting.pdf
+pdf\Medical Physics - 2015 -  - 57th ANNUAL MEETING AND EXHIBITION.pdf
+pdf\Medical Physics - 2016 -  - 58th ANNUAL MEETING AND EXHIBITION.pdf
+pdf\Medical Physics - 2017 -  - Scientific Abstracts and Sessions.pdf
+pdf\Medical Physics - 2018 -  - Scientific Abstracts and Sessions.pdf
+pdf\Medical Physics - 2021 -  - Abstract.pdf
+pdf\Meteorit   Planetary Scien - 2021 -  - 84th Annual Meeting of the Meteoritical Society  2021.pdf
+pdf\Mohamed2020_Book_NeuromorphicComputingAndBeyond.pdf
+pdf\Optical and Digital Image Processing - 2011 - Cristobal - Front Matter.pdf
+pdf\paperLSQFlow1New.pdf
+pdf\paperOjaFlow.pdf
+pdf\Perception-modelling-by-invariant-representation-of-deep_2022_Mechanical-Sys.pdf
+pdf\Pole placement approach to coherent passive reservoir engineering for storing quantum information.pdf
+pdf\Qiu_2021_Chinese_Phys._B_30_048201.pdf
+pdf\QML_HEP.pdf
+pdf\Quantum implemention of an LTI System with the minimal number of additional quantum noise inputs.pdf
+pdf\Quantum_circuit_for_accurate_simulation_of_qudit_c.pdf
+pdf\Sagan_2021_J._Inst._16_T10002.pdf
+pdf\Study_of_using_Quantum_Computer_to_Solve_Poisson_Equation_in_Gate_Insulators.pdf
+pdf\Subramanian_2019_J._Phys._Commun._3_065002.pdf
+pdf\Thesis.pdf
+pdf\Wiebe_2010_J._Phys._A__Math._Theor._43_065203.pdf
+pdf\Xue_2021_New_J._Phys._23_123035.pdf
+pdf\Zhang_2021_Chinese_Phys._B_30_020306.pdf
